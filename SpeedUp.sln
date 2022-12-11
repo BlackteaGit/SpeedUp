@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedUp", "SpeedUp\SpeedUp.csproj", "{EC5850FE-3B1F-467A-8603-D500ED12337A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5850FE-3B1F-467A-8603-D500ED12337A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5850FE-3B1F-467A-8603-D500ED12337A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5850FE-3B1F-467A-8603-D500ED12337A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5850FE-3B1F-467A-8603-D500ED12337A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38C65549-1FA7-427A-8CB9-22859A83E736}
+	EndGlobalSection
+EndGlobal
